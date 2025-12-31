@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "abc",
+    "email": "abc@yep.com",
+    "address": "abc street",
+    "phone": "12345"
+  },
+  {
+    "id": 2,
+    "name": "def",
+    "email": "abc@yep.com",
+    "address": "abc street",
+    "phone": "12345"
+  },
+  {
+    "id": 3,
+    "name": "ghi",
+    "email": "abc@yep.com",
+    "address": "abc street",
+    "phone": "12345"
+  },
+  {
+    "id": 3,
+    "name": "rohit",
+    "email": "dfwefef",
+    "address": "sdfds",
+    "phone": "dfsfsf"
+  },
+  {
+    "id": 4,
+    "name": "rohit",
+    "email": "dfwefef",
+    "address": "sdfds",
+    "phone": "dfsfsf"
+  },
+  {
+    "id": 6,
+    "name": "Test User",
+    "email": "test.user@example.com",
+    "address": "123 Example St, Testville, TX 75001",
+    "phone": "+1-555-0123"
+  },
+  {
+    "id": 7,
+    "name": "rohit",
+    "email": "qererer",
+    "address": "aererer",
+    "phone": "45666"
+  },
+  {
+    "id": 8,
+    "name": "regs",
+    "email": "regs@gmail.com",
+    "address": "adsferd",
+    "phone": "12345"
+  }
+]
