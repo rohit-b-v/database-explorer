@@ -1,7 +1,9 @@
 MCP Database Explorer
-A specialized Model Context Protocol (MCP) server designed to enable Large Language Models (LLMs)—specifically optimized for Gemini Flash—to interact with, explore, and analyze structured databases.
+
+A specialized Model Context Protocol (MCP) server designed to enable Large Language Models (LLMs), specifically optimized for Gemini Flash to interact with, explore, and analyze structured databases.
 
  Overview
+ 
 This project serves as a bridge between LLMs and your data. It allows AI models to programmatically discover database schemas and execute analytical queries, transforming raw data into actionable insights through the MCP standard.
 
 Key Capabilities:
@@ -12,7 +14,7 @@ Data Analysis: Enables complex analytical queries driven by natural language.
 LLM Integration: Seamlessly connects with models like Gemini Flash for real-time data exploration.
 
 Tech Stack
-Language: TypeScript 100%
+Language: TypeScript
 
 Protocol: Model Context Protocol (MCP)
 
